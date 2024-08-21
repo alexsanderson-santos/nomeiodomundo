@@ -1,43 +1,36 @@
-# [Welcome to PARYATANA ✈️](https://arun9739.github.io/Paryatana/)
-![Forks](https://badgen.net/github/forks/Arun9739/Paryatana?icon=github&scale=1.2&color=red&cache=300) &nbsp;
-![Stars](https://badgen.net/github/stars/Arun9739/Paryatana?icon=https://upload.wikimedia.org/wikipedia/commons/a/a3/Orange_star.svg&scale=1.2&color=orange&cache=300) &nbsp;
-![License](https://badgen.net/badge/license/MIT/purple?scale=1.2) &nbsp;<br>
-Click [here](https://arun9739.github.io/Paryatana/) to have a look at our website.
-<p align="center">
-Paryatana is a front-end website for a travel agency. The website contains details about tourist destinations, available hotels and car booking services. We focus on displaying various attractive places within the country and tourist packages are updated as they are announced by the travel agency. Details about the founder and manager are included, together with links to the Paryatana website social media pages.
-</p>
+# Travel Explorer
 
-<br> <br>
+## Welcome to Travel Explorer
 
-<p align="center">
+Welcome to Travel Explorer, your ultimate companion for discovering and exploring the world's most captivating tourist destinations.
 
-<img src="https://forthebadge.com/images/badges/built-by-developers.svg"/>
-<img src="https://forthebadge.com/images/badges/uses-brains.svg"/>
-<br>
-<img src="https://forthebadge.com/images/badges/made-with-javascript.svg"/>
-<img src="https://forthebadge.com/images/badges/powered-by-responsibility.svg"/>
-<img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
+[Visit the Live Site](https://a10-tourism-management-website.web.app/)
 
-<p>
 
-## Why contribute?
- Contributions are a good way to offer help to project maintainers and improve the functionality and experience of a software. It also helps you level up your skillset by working on real-world tasks.
- 
- ## How to contribute? 
-- If you encounter a bug on the website raise an issue with the proposed fix.
-- If you can modify the User Interface to improve User Experience on the website raise an issue with the proposed changes. 
-- If you would like to add more functionality to the site raise an issue with the proposed changes.
- 
-## Contributing Guidelines
-- Take a look at [`contributing guidelines`](Contributing.md) if you're interested in contributing!
-- Refer [GitHub Flow](https://guides.github.com/introduction/flow).
+## Features of the Website
 
-## The heart of this project are our contributors : 
+1. **Extensive Tourist Spot Details**: Explore detailed information about various tourist attractions, including travel time, average cost, seasonality, and more, to help you plan your perfect trip.
 
-<a href="https://github.com/Arun9739/Paryatana/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Arun9739/Paryatana"/>
-</a>
+2. **Country-Specific Tourist Information**: Access a curated list of tourist spots for each country, with an easy-to-navigate interface that lets you find exactly what you're looking for.
 
-## [MIT Licensed](https://github.com/Arun9739/Paryatana/blob/main/LICENSE)
+3. **Professional Tour Guides**: Meet our team of experienced tour guides, complete with photos, bios, and social media links, ensuring you have a knowledgeable and friendly companion for your travels.
 
+4. **Engaging User Experience**: Enjoy a modern, dynamic user interface with Swiper sliders and responsive design, providing a seamless experience on all devices.
+
+5. **Travel Insights and Tips**: Gain valuable travel insights and tips from our expert guides to make the most out of your journeys.
+
+## Region
+Southeast Asia
+
+## Featured Countries and Tourist Spots
+- Bangladesh
+- Thailand
+- Indonesia
+- Malaysia
+- Vietnam
+
+Embark on your next adventure with Travel Explorer, where every journey begins with a single click!
+
+
+[Visit the Live Site](https://a10-tourism-management-website.web.app/)
 
